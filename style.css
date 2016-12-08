@@ -9,6 +9,10 @@
 #title {
     background: yellow;
     /*add CSS here*/
+    margin:center;
+    padding: 30px;
+    margin: 50px;
+    display: block;
     
 }
 
@@ -16,12 +20,18 @@
     background: black;
     color: white;
     /*add CSS here*/
+    display: block;
+    margin: 50px;
+    padding: 30px
+    
     
 }
 
 .topic {
     background: lightgray;
     /*add CSS here*/
+    display: inline-block;
+    margin: 50px;
     
 }
 
